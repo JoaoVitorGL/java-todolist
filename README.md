@@ -2,7 +2,7 @@
   TODO List
 </h1>
 
-Java RESTful API para gerenciar tarefas (CRUD). Criada para o desafio de projeto do bootcamp decola tech Avanade 2025 (Publicando Sua API REST na Nuvem Usando Spring Boot 3, Java 17 e Railway).
+Java RESTful API para gerenciar tarefas (CRUD).
 
 ## Tecnologias
 
